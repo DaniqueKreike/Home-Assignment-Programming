@@ -7,11 +7,11 @@
 This is a home assignment for the course 'Programming for Psychologists' from the Research Master Cognitive Neuropsychology at the Vrije Universiteit, Amsterdam. In this assignment, I needed to visualize fMRI data to show the strength of the association between specific brain areas and a certain cognitive concept (in this case: Anxiety). This tested my knowledge and skills on the visualization, handling and interpretation of data and coding efficiency.  
 
 #### Table of contents
-**VU Programming VScode Home Assignmennt.ipynb** is the notebook
+**VU Programming VScode Home Assignmennt.ipynb** is the file containing the notebook
 
-**anatomical.nii** is the anatomical fMRI data file
+**anatomical.nii** is the file containing the anatomical fMRI data
 
-**anxiety_uniformity-test_z_FDR_0.01.nii.gz** is the functional fMRI data file
+**anxiety_uniformity-test_z_FDR_0.01.nii.gz** is the file containing the functional fMRI data
 
 #### Python packages used
 - Python 3

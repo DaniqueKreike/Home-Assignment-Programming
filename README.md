@@ -8,7 +8,9 @@ This is a home assignment for the course 'Programming for Psychologists' from th
 
 #### Table of contents
 **VU Programming VScode Home Assignmennt.ipynb** is the notebook
+
 **anatomical.nii** is the anatomical fMRI data file
+
 **anxiety_uniformity-test_z_FDR_0.01.nii.gz** is the functional fMRI data file
 
 #### Python packages used
